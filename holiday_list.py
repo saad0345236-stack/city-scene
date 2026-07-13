@@ -5,7 +5,7 @@ holiday_3 = input("3rd Entry: ")
 print("Good choices!")
 question = input("Do you want to see the list? ").lower()
 if question == "yes":
-    print("This is your list:")
+    print("Here is your list:")
     print(f"1. {holiday_1}")
     print(f"2. {holiday_2}")
     print(f"3. {holiday_3}")
